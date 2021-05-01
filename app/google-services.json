@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76971998423",
+    "firebase_url": "https://quizzer-d6acf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quizzer-d6acf",
+    "storage_bucket": "quizzer-d6acf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76971998423:android:e694904abaacb78ed5c492",
+        "android_client_info": {
+          "package_name": "com.example.test_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76971998423-pr2cu69n8h6p9r24bl832l73m1hqsuo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoVOZpqancrRL_mQJqpAfdY78zcZZExMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76971998423-pr2cu69n8h6p9r24bl832l73m1hqsuo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

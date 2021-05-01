@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0679eafc-1b79-4ec5-95a4-34fe03688bfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/app.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss20.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/ss9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Attempt_Quiz_Section/AttemptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Attempt_Quiz_Section/AttemptTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Attempt_Quiz_Section/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Attempt_Quiz_Section/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Chat_Section/Chat_Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Chat_Section/Chat_Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Create_Quiz/Custom_quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Create_Quiz/Custom_quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Results_section/ResultsAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Results_section/ResultsAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Results_section/ResultsAdminDetailed.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/Results_section/ResultsAdminDetailed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/View/AboutUsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/View/AddDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/View/AddDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/View/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/test_quiz/View/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_6_API_29]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ruokO1POkIr46SD1G7v6aSiU3F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0679eafc-1b79-4ec5-95a4-34fe03688bfe" name="Default Changelist" comment="" />
+      <created>1619835477094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619835477094</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619835507106">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="418" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1619835507106" />
+    <state x="100" y="125" width="1720" height="810" key="AVDManager" timestamp="1619837524291">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="100" y="125" width="1720" height="810" key="AVDManager/0.27.1920.1008@0.27.1920.1008" timestamp="1619837524291" />
+    <state width="1874" height="381" key="GridCell.Tab.0.bottom" timestamp="1619846107649">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state width="1874" height="381" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1619846107649" />
+    <state width="1874" height="381" key="GridCell.Tab.0.center" timestamp="1619846107648">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state width="1874" height="381" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1619846107648" />
+    <state width="1874" height="381" key="GridCell.Tab.0.left" timestamp="1619846107648">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state width="1874" height="381" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1619846107648" />
+    <state width="1874" height="381" key="GridCell.Tab.0.right" timestamp="1619846107649">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state width="1874" height="381" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1619846107649" />
+    <state x="649" y="269" width="632" height="580" key="find.popup" timestamp="1619847013878">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="649" y="269" width="632" height="580" key="find.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1619847013878" />
+  </component>
+</project>
